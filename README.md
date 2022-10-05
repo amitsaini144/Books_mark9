@@ -1,2 +1,4 @@
-# Books_mark9
+# MyFavBooksList
 Created with CodeSandbox
+This web app is made with React.
+It has list of my fav books .
